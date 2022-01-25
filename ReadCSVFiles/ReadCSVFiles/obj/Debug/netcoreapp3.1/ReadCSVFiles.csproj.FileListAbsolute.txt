@@ -1,0 +1,14 @@
+C:\Users\Renan\Desktop\Estudos\CSV\ReadCSVFiles\ReadCSVFiles\obj\Debug\netcoreapp3.1\ReadCSVFiles.csproj.AssemblyReference.cache
+C:\Users\Renan\Desktop\Estudos\CSV\ReadCSVFiles\ReadCSVFiles\obj\Debug\netcoreapp3.1\ReadCSVFiles.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Renan\Desktop\Estudos\CSV\ReadCSVFiles\ReadCSVFiles\obj\Debug\netcoreapp3.1\ReadCSVFiles.AssemblyInfoInputs.cache
+C:\Users\Renan\Desktop\Estudos\CSV\ReadCSVFiles\ReadCSVFiles\obj\Debug\netcoreapp3.1\ReadCSVFiles.AssemblyInfo.cs
+C:\Users\Renan\Desktop\Estudos\CSV\ReadCSVFiles\ReadCSVFiles\obj\Debug\netcoreapp3.1\ReadCSVFiles.csproj.CoreCompileInputs.cache
+C:\Users\Renan\Desktop\Estudos\CSV\ReadCSVFiles\ReadCSVFiles\bin\Debug\netcoreapp3.1\ReadCSVFiles.exe
+C:\Users\Renan\Desktop\Estudos\CSV\ReadCSVFiles\ReadCSVFiles\bin\Debug\netcoreapp3.1\ReadCSVFiles.deps.json
+C:\Users\Renan\Desktop\Estudos\CSV\ReadCSVFiles\ReadCSVFiles\bin\Debug\netcoreapp3.1\ReadCSVFiles.runtimeconfig.json
+C:\Users\Renan\Desktop\Estudos\CSV\ReadCSVFiles\ReadCSVFiles\bin\Debug\netcoreapp3.1\ReadCSVFiles.runtimeconfig.dev.json
+C:\Users\Renan\Desktop\Estudos\CSV\ReadCSVFiles\ReadCSVFiles\bin\Debug\netcoreapp3.1\ReadCSVFiles.dll
+C:\Users\Renan\Desktop\Estudos\CSV\ReadCSVFiles\ReadCSVFiles\bin\Debug\netcoreapp3.1\ReadCSVFiles.pdb
+C:\Users\Renan\Desktop\Estudos\CSV\ReadCSVFiles\ReadCSVFiles\obj\Debug\netcoreapp3.1\ReadCSVFiles.dll
+C:\Users\Renan\Desktop\Estudos\CSV\ReadCSVFiles\ReadCSVFiles\obj\Debug\netcoreapp3.1\ReadCSVFiles.pdb
+C:\Users\Renan\Desktop\Estudos\CSV\ReadCSVFiles\ReadCSVFiles\obj\Debug\netcoreapp3.1\ReadCSVFiles.genruntimeconfig.cache

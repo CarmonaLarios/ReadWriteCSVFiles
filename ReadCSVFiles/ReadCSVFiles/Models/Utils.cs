@@ -1,0 +1,17 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Text;
+
+namespace ReadCSVFiles.Models
+{
+    public static class Utils
+    {
+        public static DateTime ToDateTime(this string value)
+        {
+            var data = value.Split('-');
+            return new DateTime(int.Parse(data[0]),
+                                int.Parse(data[1]),
+                                int.Parse(data[2]));
+        }
+    }
+}
